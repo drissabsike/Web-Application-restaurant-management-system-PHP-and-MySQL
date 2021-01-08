@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<commande>
+  <achats>
+    <date_achat>2020-04-28 16:46:47</date_achat>
+    <nom_client>absike</nom_client>
+    <prenom_client>idriss</prenom_client>
+    <price>227</price>
+  </achats>
+  <achats>
+    <date_achat>2020-04-28 16:51:55</date_achat>
+    <nom_client>absike</nom_client>
+    <prenom_client>idriss</prenom_client>
+    <price>227</price>
+  </achats>
+  <achats>
+    <date_achat>2020-04-28 20:43:24</date_achat>
+    <nom_client>absike</nom_client>
+    <prenom_client>idriss</prenom_client>
+    <price>221</price>
+  </achats>
+  <achats>
+    <date_achat>2020-04-28 20:45:25</date_achat>
+    <nom_client>absike</nom_client>
+    <prenom_client>idriss</prenom_client>
+    <price>0</price>
+  </achats>
+  <achats>
+    <date_achat>2020-04-28 20:46:46</date_achat>
+    <nom_client>absike</nom_client>
+    <prenom_client>idriss</prenom_client>
+    <price>221</price>
+  </achats>
+  <achats>
+    <date_achat>2020-04-29 15:17:02</date_achat>
+    <nom_client>absike</nom_client>
+    <prenom_client>idriss</prenom_client>
+    <price>230</price>
+  </achats>
+  <achats>
+    <date_achat>2020-04-29 15:32:19</date_achat>
+    <nom_client>absike</nom_client>
+    <prenom_client>idriss</prenom_client>
+    <price>230</price>
+  </achats>
+  <achats>
+    <date_achat>2020-04-29 15:32:37</date_achat>
+    <nom_client>absike</nom_client>
+    <prenom_client>idriss</prenom_client>
+    <price>230</price>
+  </achats>
+  <achats>
+    <date_achat>2020-04-29 15:35:19</date_achat>
+    <nom_client>absike</nom_client>
+    <prenom_client>idriss</prenom_client>
+    <price>230</price>
+  </achats>
+  <achats>
+    <date_achat>2020-04-29 16:06:51</date_achat>
+    <nom_client>absike</nom_client>
+    <prenom_client>idriss</prenom_client>
+    <price>230</price>
+  </achats>
+</commande>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<commande>
+  <achats>
+    <date_achat>2020-05-03 16:25:25</date_achat>
+    <nom_client>ayman</nom_client>
+    <prenom_client>kamoun</prenom_client>
+    <price>58</price>
+  </achats>
+</commande>
