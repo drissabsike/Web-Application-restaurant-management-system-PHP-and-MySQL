@@ -1,7 +1,6 @@
 # Web-Application-restaurant-management-system-PHP-and-MySQL
-
+![](Capture.jpg)
 //Use Wampserver
-**************
 
 #Code Connecxion
 ****************
